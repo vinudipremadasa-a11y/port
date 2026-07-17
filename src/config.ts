@@ -17,14 +17,14 @@ export const siteConfig = {
       name: "Smart Greenhouse Automation",
       description:
         " Arduino‑based IoT system that automates soil moisture, water flow, and nutrient delivery for sustainable agriculture.",
-      link: "/images/greenhouse.png",
+      link: "/port/images/greenhouse.png",
       skills: ["Arduino", "C/C++", "JavaScript", "IoT"],
     },
     {
       name: "ThinkNeuro Browser Extension Engineering",
       description:
         "Engineered and optimized key extension features using JavaScript, HTML, and CSS; improved performance and workflow efficiency.",
-      link: "/images/soon.png",
+      link: "/port/images/soon.png",
       skills: ["React", "Node.js", "AWS"],
     },
     
