@@ -58,8 +58,10 @@ export const siteConfig = {
       dateRange: "2024 - 2027",
       achievements: [
         "AP Scholar with Honor Award",
+        "Lumiere Scholars Essay Excellence Award",
         "MLK Youth Program Academic Award",
         "Youth Leadership Greenville Class 20 Participant",
+        "Hartsville First Robotics Competition Finalist",
         "Vice President of Diversity Awareness Youth Literacy Organization",
       ],
     },
